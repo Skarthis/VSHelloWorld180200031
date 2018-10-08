@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace VSHelloWorld180200031
 {
+    //comentario de teste
     public class Program
     {
         public static void Main(string[] args)

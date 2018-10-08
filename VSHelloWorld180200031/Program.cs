@@ -11,6 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace VSHelloWorld180200031
 {
     //comentario de teste
+    // nova linha
     public class Program
     {
         public static void Main(string[] args)
